@@ -2,7 +2,6 @@ Roadmap
 ======
 intégration de spot thema 2015
 ------
-----------
 Système en pre-releases / releases calqué sur la publication de projets informatiques.
 
 > *En italique ce qui reste à faire.*
