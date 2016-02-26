@@ -289,10 +289,10 @@ if __name__ == "__main__":
 
     # consts
     #   - spot datasource (in case)
-    fc = ur'J:\Etudes\laufma\thema\methode 2015\20160113_expertise_source_ftp\analyse.gdb\topo\st_draft'
+    fc = r'\\full\path\to\st.gdb\st'
 
     #   - mxd and xlsx templates
-    tpl_root = ur'J:\Etudes\laufma\Python26\site-packages\mezcal\templates\2016'
+    tpl_root = r'.\relative\path\to\templates\'
 
     mxd_tpl = [
         ur'st_00_tpl.mxd',
