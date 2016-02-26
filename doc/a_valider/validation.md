@@ -1,5 +1,7 @@
 Validation spot thema 2016
 =
+> **Remarque :** les concepts techniques utilisés dans cette note proviennent des outils esri. Cela se justifie par le fait que c'est l'outil qui est utilisé pour effectuer la réception et la mise en oeuvre de la base. Néanmoins ils sont suffisamment génériques pour trouver leur correspondance dans n'importe quel environnement SIG.
+
 Structuration
 -
 ###classes millésime
