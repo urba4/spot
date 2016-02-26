@@ -35,3 +35,13 @@ Il n'y a qu'une classe overlay qui contient toutes les années. Elle contient le
 - depcom_16:
   - texte 5 caractères
   - pas de valeur nulle possible
+
+Topologie
+-
+###règles générales
+- exlusivement des polygones non nuls
+- tolérance à 0.001 m
+- projection Lambert93 (epsg:2154)
+- ni lacune ni superposition: valable pour toutes les classes
+- les limites extérieures de la couverture sont communales (bdtopo 2016)
+- 
