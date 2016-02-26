@@ -70,13 +70,25 @@ En l'absence de nouvelles spécifications, nous nous réfèrerons aux dernières
 
 La consommation d'espaces naturels et agricoles est un processus généralement irréversible. Des retours en arrières sont possibles mais tout phénomène massif doit attirer l'attention.
 
-Nous effectuerons donc une sélection des objets classés en naturel ou agricole en 2015 et qui ne l'étaient pas avant. 
+Nous effectuerons donc une sélection des objets classés en naturel ou agricole en 2015 et qui ne l'étaient pas avant. Nous vérifierons les plus grands objets jusqu'à couvrir 50 % en surface de cette sélection. 
 
 ####ciblage des classes ambigues
 
 Des classes sources d'erreurs ont déjà été identifiées par le passé:
 
-- la classe 31 (chantiers, décharges, extraction de matériaux) qui sont souvent confondues avec des zones agricoles ou naturelles
-- la classe 90 (espaces libres urbains)
- 
-A la suite d'erreurs d'interprétation, ces classes, identifiées comme espaces en mutation mais participant à la consommation des espaces agricoles et naturels, peuvent faire varier les taux d'artificialisation de manière imortante. 
+- la classe 31 (chantiers, décharges, extraction de matériaux) qui sont souvent confondues avec des zones agricoles ou naturelles. On vérifiera 25 % de la surface en 31 (les 50 plus grands objets)
+- la classe 90 (espaces libres urbains) 
+
+####cas particulier des espaces libres urbains
+
+Les spécifications spot niveau 3 indiquent comme caractéristiques:
+- un objet agricole ou naturel
+- entièrement contenu dans la tache urbaine
+- d'une superficie comprise entre 20 000 m² et 2 500 m² (UMET)
+
+Cependant spot s'est délibérément écarté de ces critères de surface dans l'identifications de certaines grandes dents creuses urbaines à enjeu (est lyonnais par exemple).
+
+Historiquement, les dents creuses urbaines n'étaient identifiées qu'au niveau 3 dans les agglos. Or les règles de la spécification peuvent facilement être appliquées de manière mécanique (par sélection) pour identifier les dents creuses dès le niveau 2. Par cette méthode, nous avons donc étendu l'identification des dents creuses à l'ensemble des couvertures des millésimes.
+
+Il faudra donc vérifier par sélection que les objets de classe 90 respectent ces règles sur toute l'étendue du territoire hors niveau 3.
+
