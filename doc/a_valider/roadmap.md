@@ -19,7 +19,7 @@ Synthèse
 
 pre-releases
 ------
-> **Note : **
+> **Note** : 
 > pour valider chaque étape, tous les items doivent être achevés. Ca ne veut pas dire qu'on ne peut pas commencer des items de l'étape suivante.
 
 ###0.1 alpha : sources
