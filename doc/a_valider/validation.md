@@ -41,10 +41,14 @@ Topologie
 ###règles générales
 
 - exlusivement des polygones non nuls
+- pas de polygones multiples
+- pas d'auto-intersection
 - tolérance à 0.001 m
 - projection Lambert93 (epsg:2154)
 - ni lacune ni superposition: valable pour toutes les classes
 - les limites extérieures de la couverture sont communales (bdtopo 2016)
 
 ###règles particulières aux millésimes
-la taille minimale de l'objet est définie par l'UMET spécifiée dans les dernières spécification de niveau 3 publiées par Spot 
+
+la taille minimale de l'objet est définie par l'UMET spécifiée dans les dernières spécification de niveau 3 publiées par Spot en 2005 (spot/doc/Spéc_ThemaST5_V1-3.pdf).
+
