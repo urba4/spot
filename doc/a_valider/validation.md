@@ -40,6 +40,10 @@ Il n'y a qu'une classe overlay qui contient toutes les années. Elle contient le
 
 Topologie
 -
+###méthode de vérification
+
+La topologie sera vérifiée grâce à l'outil topologie d'arcgis. Elle sera validée lorsqu'aucune erreur ne sera constatée dans chaune des règles énoncées ci-dessous en dehors des exception légitimes.
+
 ###règles générales
 
 - exlusivement des polygones non nuls
@@ -57,3 +61,11 @@ la taille minimale de l'objet est définie par l'UMET spécifiée dans les derni
 Qualité alphanumérique
 -
 > **Note :** le contrôle de la qualité alphanumérique restera forcément partiel et ne pourra s'améliorer qu'avec le temps et l'usage de la donnée qui permettra d'identifier progressivement les erreurs les plus gênantes. Cependant l'expérience ainsi que certains croisement doivent permettre de cibler certains problèmes potentiels bien connus.
+
+###méthode de vérification
+
+####Identification des évolutions aberrantes
+
+En l'absence de nouvelles spécifications, nous nous réfèrerons aux dernières publiées par spot (https://github.com/urba4/spot/blob/master/doc/Spec_ThemaST5_V1-3.pdf).
+La consommation d'espaces naturels et agricoles est un processus généralement irréversible. Des retours en arrières sont possibles mais tout phénomène massif doit attirer l'attention.
+
