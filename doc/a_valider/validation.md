@@ -50,5 +50,5 @@ Topologie
 
 ###règles particulières aux millésimes
 
-la taille minimale de l'objet est définie par l'UMET spécifiée dans les dernières spécification de niveau 3 publiées par Spot en 2005 (spot/doc/Spéc_ThemaST5_V1-3.pdf).
+la taille minimale de l'objet est définie par l'UMET spécifiée dans les dernières spécification de niveau 3 publiées par Spot en 2005 (https://github.com/urba4/spot/blob/master/doc/Spec_ThemaST5_V1-3.pdf).
 
