@@ -5,7 +5,7 @@ intégration de spot thema 2015
 ----------
 Système en pre-releases / releases calqué sur la publication de projets informatiques.
 
->_En italique ce qui reste à faire._
+> *En italique ce qui reste à faire.*
 
 Synthèse
 ------
@@ -19,7 +19,7 @@ Synthèse
 
 pre-releases
 ------
->__Note : __
+> **Note : **
 > pour valider chaque étape, tous les items doivent être achevés. Ca ne veut pas dire qu'on ne peut pas commencer des items de l'étape suivante.
 
 ###0.1 alpha : sources
