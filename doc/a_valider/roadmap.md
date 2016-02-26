@@ -19,7 +19,9 @@ Synthèse
 
 pre-releases
 ------
+
 > **Note**
+
 > pour valider chaque étape, tous les items doivent être achevés. Ca ne veut pas dire qu'on ne peut pas commencer des items de l'étape suivante.
 
 ###0.1 alpha : sources
@@ -38,17 +40,19 @@ pre-releases
 	 - *qualité de l'interprétation*
 	 - *adéquation aux spécifications (UMET...)*
 
- > **Produit**
- > jeu de fichiers, rapports, rétroplanning indicatif.
- > A ce stade, pas de modification des données sources.
+> **Produit**
+ 
+> jeu de fichiers, rapports, rétroplanning indicatif.
+> A ce stade, pas de modification des données sources.
 
 ###0.5 alpha : merge
  - les territoires sont assemblés par année
  - l'overlay est effectué (4 millésimes + référentiel communal)
  - la topologie est corrigée après opération d'overlay
 
- > **Produit**
- > une classe d’entités par années ( avec depcom), une classe d’entités overlay
+> **Produit**
+
+> une classe d’entités par années ( avec depcom), une classe d’entités overlay
 
 ###0.9 beta : final
 - *les données alphas sont corrigées*
@@ -58,9 +62,10 @@ pre-releases
 	- dossier spot (cartes et stats standard)
 	- script mezcal pour production en série
  
- > **Produit**
- > une base avec ses outils, prête pour la prod
- > un process de test/debug prêt à démarrer
+> **Produit**
+
+> une base avec ses outils, prête pour la prod
+> un process de test/debug prêt à démarrer
 
 Releases
 ---
