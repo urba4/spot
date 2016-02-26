@@ -72,7 +72,7 @@ La consommation d'espaces naturels et agricoles est un processus généralement 
 
 Nous effectuerons donc une sélection des objets classés en naturel ou agricole en 2015 et qui ne l'étaient pas avant. 
 
-###ciblage des classes ambigues
+####ciblage des classes ambigues
 
 Des classes sources d'erreurs ont déjà été identifiées par le passé:
 
