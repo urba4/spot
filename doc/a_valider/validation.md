@@ -52,3 +52,6 @@ Topologie
 
 la taille minimale de l'objet est définie par l'UMET spécifiée dans les dernières spécification de niveau 3 publiées par Spot en 2005 (https://github.com/urba4/spot/blob/master/doc/Spec_ThemaST5_V1-3.pdf).
 
+Qualité alphanumérique
+-
+> **Note :** le contrôle de la qualité alphanumérique restera forcément partiel et ne pourra s'améliorer qu'avec le temps et l'usage de la donnée qui permettra d'identifier progressivement les erreurs les plus gênantes. Cependant l'expérience ainsi que certains croisement doivent permettre de cibler certains problèmes potentiels bien connus.
