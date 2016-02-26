@@ -67,5 +67,16 @@ Qualité alphanumérique
 ####Identification des évolutions aberrantes
 
 En l'absence de nouvelles spécifications, nous nous réfèrerons aux dernières publiées par spot (https://github.com/urba4/spot/blob/master/doc/Spec_ThemaST5_V1-3.pdf).
+
 La consommation d'espaces naturels et agricoles est un processus généralement irréversible. Des retours en arrières sont possibles mais tout phénomène massif doit attirer l'attention.
 
+Nous effectuerons donc une sélection des objets classés en naturel ou agricole en 2015 et qui ne l'étaient pas avant. 
+
+###ciblage des classes ambigues
+
+Des classes sources d'erreurs ont déjà été identifiées par le passé:
+
+- la classe 31 (chantiers, décharges, extraction de matériaux) qui sont souvent confondues avec des zones agricoles ou naturelles
+- la classe 90 (espaces libres urbains)
+ 
+A la suite d'erreurs d'interprétation, ces classes, identifiées comme espaces en mutation mais participant à la consommation des espaces agricoles et naturels, peuvent faire varier les taux d'artificialisation de manière imortante. 
