@@ -72,3 +72,5 @@ Releases
 ###1.1 spot thema (durée de vie: 4 ans ?) 
 - les bugs sont corrigés
 - la base est consolidée
+- la phase d'intégration est capitalisée
+- le rapport de capitalisation sert de base à la commande 2020
