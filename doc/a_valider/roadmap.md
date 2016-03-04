@@ -10,7 +10,7 @@ Synthèse
 ------
 |version|jalons|calendrier prévisoionnel|
 |:---|:---|---:|
-|0.1 alpha|sources|fait|
+|0.1 alpha|recette|fait|
 |0.5 alpha|merge|16/02/2016|
 |*0.9 beta*|*final*|*15/03/2016*|
 |*1.0 spot thema*|*release initiale*|*15/04/2016*|
@@ -21,7 +21,7 @@ pre-releases
 
 > **Note :** pour valider chaque étape, tous les items doivent être achevés. Ca ne veut pas dire qu'on ne peut pas commencer des items de l'étape suivante.
 
-###0.1 alpha : sources
+###0.1 alpha : recette
 
  - les sources sont rassemblées
 	 - millésimes
